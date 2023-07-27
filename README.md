@@ -3,7 +3,7 @@ Convergence of the relevant dependencies used in M5 products.
 
 # Libraries M5Family depends on(M5Stack organization)
 
-|                            Library                            |       Related Product SKUs       | note |
+| Library                                                       | Related Product SKUs             | note |
 | :------------------------------------------------------------ | :------------------------------- | :--- |
 | [M5Unit-EXTIO2](https://github.com/m5stack/M5Unit-EXTIO2)     | U011-B<br>S002                   |      |
 | [M5Unit-Sonic](https://github.com/m5stack/M5Unit-Sonic)       | U098<br>U098-B1<br>U098-B2       |      |
@@ -24,10 +24,12 @@ Convergence of the relevant dependencies used in M5 products.
 | [M5-FPC1020A](https://github.com/m5stack/M5-FPC1020A)         | U008<br>U074<br>A066             |      |
 | [M5GFX](https://github.com/m5stack/M5GFX)                     |                                  |      |
 | [M5_EzData](https://github.com/m5stack/M5_EzData)             |                                  |      |
+| [M5Unified](https://github.com/m5stack/M5Unified)             |                                  |      |
+
 
 # Libraries M5Family depends on(Repositories outside M5Stack organization)
 
-|                                     Library                                      |         SKU          | note |
+| Library                                                                          | SKU                  | note |
 | :------------------------------------------------------------------------------- | :------------------- | :--- |
 | [FastLED](https://github.com/FastLED/FastLED)                                    |                      |      |
 | [ADXL345](https://github.com/jakalada/Arduino-ADXL345)                           | U056                 |      |
@@ -43,3 +45,8 @@ Convergence of the relevant dependencies used in M5 products.
 | [TFTTerminal](https://github.com/Tinyu-Zhao/TFTTerminal)                         |                      |      |
 | [ClosedCube TCA9548A](https://github.com/closedcube/ClosedCube_TCA9548A_Arduino) | U040                 |      |
 | [PubSubClient](https://github.com/knolleary/pubsubclient)                        |                      |      |
+| [arduinoFFT](https://github.com/kosme/arduinoFFT)                                |                      |      |
+| [ArduinoJson](https://github.com/bblanchon/ArduinoJson)                          |                      |      |
+| [Blynk](https://github.com/blynkkk/blynk-library)                                |                      |      |
+| [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio)                   |                      |      |
+
