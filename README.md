@@ -1,4 +1,7 @@
 # M5Family
+
+[![Arduino Lint](https://github.com/m5stack/M5Family/actions/workflows/Arduino-Lint-Check.yml/badge.svg)](https://github.com/m5stack/M5Family/actions/workflows/Arduino-Lint-Check.yml)
+
 Convergence of the relevant dependencies used in M5 products.
 
 # Libraries M5Family depends on(M5Stack organization)
@@ -25,6 +28,7 @@ Convergence of the relevant dependencies used in M5 products.
 | [M5GFX](https://github.com/m5stack/M5GFX)                     |                                  |      |
 | [M5_EzData](https://github.com/m5stack/M5_EzData)             |                                  |      |
 | [M5Unified](https://github.com/m5stack/M5Unified)             |                                  |      |
+| [M5-Ethernet](https://github.com/m5stack/M5-Ethernet)         |                                  |      |
 
 
 # Libraries M5Family depends on(Repositories outside M5Stack organization)
@@ -49,4 +53,8 @@ Convergence of the relevant dependencies used in M5 products.
 | [ArduinoJson](https://github.com/bblanchon/ArduinoJson)                          |                      |      |
 | [Blynk](https://github.com/blynkkk/blynk-library)                                |                      |      |
 | [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio)                   |                      |      |
+| [DFRobot_PAJ7620U2](https://github.com/DFRobot/DFRobot_PAJ7620U2)                | U127                 |      |
+| [arduino-LoRa](https://github.com/sandeepmistry/arduino-LoRa)                    | M005<br>M029         |      |
+| [U8g2](https://github.com/olikraus/U8g2_Arduino)                                 |                      |      |
+| [VL53L0X](https://github.com/pololu/vl53l0x-arduino)                             |                      |      |
 
