@@ -64,4 +64,7 @@ Convergence of the relevant dependencies used in M5 products.
 | [mcp_can](https://github.com/coryjfowler/MCP_CAN_lib)                             | M011                   |      |
 | [ArduinoECCX08](https://github.com/arduino-libraries/ArduinoECCX08)               | U124                   |      |
 | [TinyGSM](https://github.com/vshymanskyy/TinyGSM)                                 | M031-H<br>K120<br>S004 |      |
+| [DFRobot_GP8XXX](https://github.com/DFRobot/DFRobot_GP8XXX)                       | U068-B<br>U012-B       |      |
+| [IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)                  |                        |      |
+| [ArduinoHttpClient](https://github.com/arduino-libraries/ArduinoHttpClient)       |                        |      |
 
